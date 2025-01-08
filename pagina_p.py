@@ -6,5 +6,5 @@ class Persono:
   def myfuncha(abc):
     print("Hello my name is " + abc.name )
 
-p1 = Persono("John", 36)
+p1 = Persono("John", 35)
 p1.myfuncha()
